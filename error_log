@@ -1,0 +1,49 @@
+[15-Nov-2020 20:29:51 UTC] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/eleacaco/public_html/index.php on line 7
+[15-Nov-2020 20:29:51 UTC] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/eleacaco/public_html/index.php on line 7
+[15-Nov-2020 20:29:51 UTC] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/eleacaco/public_html/index.php on line 7
+[15-Nov-2020 20:34:08 UTC] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/eleacaco/public_html/index.php on line 7
+[15-Nov-2020 20:34:08 UTC] PHP Warning:  include(includes/header.html): failed to open stream: No such file or directory in /home/eleacaco/public_html/index.php on line 7
+[15-Nov-2020 20:34:08 UTC] PHP Warning:  include(): Failed opening 'includes/header.html' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/eleacaco/public_html/index.php on line 7
+[15-Nov-2020 20:35:55 UTC] PHP Notice:  Undefined index: fname in /home/eleacaco/public_html/confirmation.php on line 20
+[15-Nov-2020 20:35:55 UTC] PHP Notice:  Undefined index: fname in /home/eleacaco/public_html/confirmation.php on line 25
+[15-Nov-2020 20:35:55 UTC] PHP Notice:  Undefined index: lname in /home/eleacaco/public_html/confirmation.php on line 26
+[15-Nov-2020 20:35:55 UTC] PHP Notice:  Undefined index: email in /home/eleacaco/public_html/confirmation.php on line 31
+[15-Nov-2020 20:35:55 UTC] PHP Notice:  Undefined index: phone in /home/eleacaco/public_html/confirmation.php on line 32
+[15-Nov-2020 20:35:55 UTC] PHP Notice:  Undefined index: address in /home/eleacaco/public_html/confirmation.php on line 33
+[15-Nov-2020 20:35:55 UTC] PHP Notice:  Undefined index: zipcode in /home/eleacaco/public_html/confirmation.php on line 34
+[15-Nov-2020 20:35:55 UTC] PHP Notice:  Undefined index: services in /home/eleacaco/public_html/confirmation.php on line 35
+[15-Nov-2020 20:35:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/eleacaco/public_html/confirmation.php on line 35
+[15-Nov-2020 12:39:26 America/Los_Angeles] PHP Warning:  require(includes/database-credentials.php): failed to open stream: No such file or directory in /home/eleacaco/public_html/confirmation.php on line 9
+[15-Nov-2020 12:39:26 America/Los_Angeles] PHP Warning:  require(includes/database-credentials.php): failed to open stream: No such file or directory in /home/eleacaco/public_html/confirmation.php on line 9
+[15-Nov-2020 12:39:26 America/Los_Angeles] PHP Fatal error:  require(): Failed opening required 'includes/database-credentials.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/eleacaco/public_html/confirmation.php on line 9
+[15-Nov-2020 12:41:51 America/Los_Angeles] PHP Notice:  Undefined index: txt-title in /home/eleacaco/public_html/confirmation.php on line 37
+[15-Nov-2020 12:42:32 America/Los_Angeles] PHP Notice:  Undefined index: txt-title in /home/eleacaco/public_html/confirmation.php on line 37
+[15-Nov-2020 12:46:28 America/Los_Angeles] PHP Notice:  Undefined index: txt-fName in /home/eleacaco/public_html/confirmation.php on line 29
+[15-Nov-2020 12:46:28 America/Los_Angeles] PHP Notice:  Undefined index: txt-lName in /home/eleacaco/public_html/confirmation.php on line 30
+[15-Nov-2020 12:46:28 America/Los_Angeles] PHP Notice:  Undefined index: txt-email in /home/eleacaco/public_html/confirmation.php on line 31
+[15-Nov-2020 12:46:28 America/Los_Angeles] PHP Notice:  Undefined index: txt-title in /home/eleacaco/public_html/confirmation.php on line 32
+[15-Nov-2020 12:46:28 America/Los_Angeles] PHP Notice:  Undefined index: txt-company in /home/eleacaco/public_html/confirmation.php on line 33
+[15-Nov-2020 12:46:28 America/Los_Angeles] PHP Notice:  Undefined index: textUrl in /home/eleacaco/public_html/confirmation.php on line 34
+[15-Nov-2020 12:46:28 America/Los_Angeles] PHP Notice:  Undefined index: selection-met in /home/eleacaco/public_html/confirmation.php on line 35
+[15-Nov-2020 12:46:28 America/Los_Angeles] PHP Notice:  Undefined index: txt-message in /home/eleacaco/public_html/confirmation.php on line 36
+[15-Nov-2020 12:46:28 America/Los_Angeles] PHP Notice:  Undefined index: exampleRadios in /home/eleacaco/public_html/confirmation.php on line 37
+[15-Nov-2020 12:48:27 America/Los_Angeles] PHP Notice:  Undefined index: txt-title in /home/eleacaco/public_html/confirmation.php on line 32
+[15-Nov-2020 13:01:29 America/Los_Angeles] PHP Notice:  Undefined index: selection in /home/eleacaco/public_html/confirmation.php on line 35
+[15-Nov-2020 13:05:23 America/Los_Angeles] PHP Notice:  Undefined index: selection in /home/eleacaco/public_html/confirmation.php on line 35
+[15-Nov-2020 13:07:10 America/Los_Angeles] PHP Notice:  Undefined index: selection in /home/eleacaco/public_html/confirmation.php on line 35
+[15-Nov-2020 13:20:29 America/Los_Angeles] PHP Notice:  Undefined index: fname in /home/eleacaco/public_html/confirmation.php on line 33
+[15-Nov-2020 13:20:29 America/Los_Angeles] PHP Notice:  Undefined index: lname in /home/eleacaco/public_html/confirmation.php on line 34
+[15-Nov-2020 13:20:29 America/Los_Angeles] PHP Notice:  Undefined index: email in /home/eleacaco/public_html/confirmation.php on line 35
+[15-Nov-2020 13:20:29 America/Los_Angeles] PHP Notice:  Undefined index: title in /home/eleacaco/public_html/confirmation.php on line 36
+[15-Nov-2020 13:20:29 America/Los_Angeles] PHP Notice:  Undefined index: company in /home/eleacaco/public_html/confirmation.php on line 37
+[15-Nov-2020 13:20:29 America/Los_Angeles] PHP Notice:  Undefined index: url in /home/eleacaco/public_html/confirmation.php on line 38
+[15-Nov-2020 13:20:29 America/Los_Angeles] PHP Notice:  Undefined index: message in /home/eleacaco/public_html/confirmation.php on line 39
+[15-Nov-2020 13:20:29 America/Los_Angeles] PHP Notice:  Undefined index: radio in /home/eleacaco/public_html/confirmation.php on line 40
+[15-Nov-2020 13:28:31 America/Los_Angeles] PHP Notice:  Undefined index: fname in /home/eleacaco/public_html/confirmation.php on line 32
+[15-Nov-2020 13:28:31 America/Los_Angeles] PHP Notice:  Undefined index: lname in /home/eleacaco/public_html/confirmation.php on line 33
+[15-Nov-2020 13:28:31 America/Los_Angeles] PHP Notice:  Undefined index: email in /home/eleacaco/public_html/confirmation.php on line 34
+[15-Nov-2020 13:28:31 America/Los_Angeles] PHP Notice:  Undefined index: title in /home/eleacaco/public_html/confirmation.php on line 35
+[15-Nov-2020 13:28:31 America/Los_Angeles] PHP Notice:  Undefined index: company in /home/eleacaco/public_html/confirmation.php on line 36
+[15-Nov-2020 13:28:31 America/Los_Angeles] PHP Notice:  Undefined index: url in /home/eleacaco/public_html/confirmation.php on line 37
+[15-Nov-2020 13:28:31 America/Los_Angeles] PHP Notice:  Undefined index: message in /home/eleacaco/public_html/confirmation.php on line 38
+[15-Nov-2020 13:28:31 America/Los_Angeles] PHP Notice:  Undefined index: radio in /home/eleacaco/public_html/confirmation.php on line 39

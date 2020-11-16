@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+input.btn.btn-primary {
+  margin-bottom: 10px;
+}
+
+.form-container {
+    padding: 25px 100px 25px 100px;
+}
+
+body {
+    padding: 25px 100px 25px 100px;
+}
+
+#selection-alert {
+    color: red;
+}
+
+#fname-alert {
+    display: none;
+    color: red;
+}
+
+#lname-alert {
+    display: none;
+    color: red;
+}
+
+#email-alert {
+    color: red;
+}
+
+#show-format {
+    display: none;
+}
+
+#li-alert {
+    display: none;
+    color: red;
+}
+
+#show-other {
+    display: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+}
+div.container {
+    background-color: whitesmoke;
+}
+button {
+    color: #242020;
+    background-color:#F5F5F5;
+    text-align: center;
+    box-shadow: 0px 3px 1px 1px;
+}
+
+.jumbotron{
+    color: #F5F5F5;
+    background-color:#532222;
+    text-align: center;
+}
+
+footer {
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding-top: 2rem;
+}
+
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+  .social a {
+    font-size: 4em;
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+    .carousel-caption {
+        top: 75%;
+    }
+
+
+    /*---Firefox Bug Fix --*/
+    /*--- Fixed Background Image --*/
+    figure {
+        position: relative;
+        width: 100%;
+        height: 60%;
+        margin: 0 !important;
+    }
+
+    .fixed-wrap {
+        clip: rect(0, auto, auto, 0);
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    #fixed {
+        background-image: url('../img/mac.png');
+        position: fixed;
+        display: block;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position: center center;
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+        will-change: transform;
+    }
+
+    /*--- Bootstrap Padding Fix --*/
+    [class*="col-"] {
+        padding: 1rem;
+    }
+}
+
+
+
+
+
+
+
+
+
